@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+cd usr/share/libreoffice-para-leigos
+python3 main.py $@
+cd -

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Libreoffice Para Leigos
+Comment=Libreoffice Para Leigos é um manual sobre como usar as funções do Libreoffice.
+Exec=libreoffice-para-leigos
+Icon=/usr/share/icons/libreoffice-para-leigos.svg
+Terminal=false
+Type=Application
+Categories=Office
