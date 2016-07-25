@@ -13,7 +13,7 @@ sudo apt-get install -f
 
 #### Get Code
 ```
-git clone https://github.com/kaiana/libreoffice-para-leigos.git
+git clone https://github.com/biglinux/libreoffice-para-leigos.git
 ```
 
 #### Requirements
